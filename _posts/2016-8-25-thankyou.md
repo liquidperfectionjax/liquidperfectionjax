@@ -6,4 +6,4 @@ image:
 nav-menu: false
 ---
 
-Thank you for your free estimate submission. We will contact you shortly!
+We will contact you shortly!
