@@ -26,12 +26,15 @@ nav-menu: true
 		<header class="major">
 			<h2>The Details</h2>
 		</header>
-		<p>Clean Concrete Floor. ...
-Mix and Apply Concrete Etch. ...
-Prepare Room for Painting. ...
-Mix and Apply the Epoxy Coating. ...
-Allow Epoxy to Dry Then Apply Second Coat. ...
-After Floor is Dry, Apply Epoxy as a Baseboard Finish (Optional)</p>
+		<p>
+		<ul><li>Clean Concrete Floor. </li>
+<li>Mix and Apply Concrete Etch.</li>
+<li>Prepare Room for Painting.</li>
+<li>Mix and Apply the Epoxy Coating.</li>
+<li>Allow Epoxy to Dry Then Apply Second Coat.</li>
+<li>After Floor is Dry, Apply Epoxy as a Baseboard Finish (Optional)</li>
+		</ul>
+		</p>
 		
 	</div>
 </section>
