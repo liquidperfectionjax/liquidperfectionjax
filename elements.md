@@ -27,14 +27,13 @@ honorable service, we take great pride in every job!
 
 We are a licensed and insured company whose first priorities are providing our customers with qualities such as
 honesty, punctuality, and cleanliness.
-
+<br /><br />
 We pride ourselves on using the best products and techniques for making your home or project look beautiful and stay protected for years.
 
 Our emphasis is on safety, attention to detail, and customer satisfaction and all
 work is guaranteed! Please contact us today for your free estimate.
-
+<br /><br />
 Contact Adam @ 904-329-5312
 		
-</section>
 
 </div>
