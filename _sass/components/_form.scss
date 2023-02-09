@@ -114,6 +114,7 @@
 			text-align: center;
 			top: 0;
 			width: _size(element-height);
+		}
 
 		select::-ms-expand {
 			display: none;
@@ -177,7 +178,7 @@
 
 		&:focus + label {
 			&:before {
-				box-shadow: 254 0 0 2px _palette(highlight);
+				box-shadow: 0 0 0 2px _palette(highlight);
 			}
 		}
 	}
