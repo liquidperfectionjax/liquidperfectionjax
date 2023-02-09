@@ -115,7 +115,18 @@
 			top: 0;
 			width: _size(element-height);
 		}
-
+		 .select__trigger {
+			position: relative;
+			display: flex;
+			align-items: center;
+			justify-content: space-between;
+			color: #3b3b3b;
+			background: #ffffff;
+			cursor: pointer;
+			border-width: 2px 0 2px 0;
+			border-style: solid;
+			border-color: #394a6d;
+		}
 		select::-ms-expand {
 			display: none;
 		}
