@@ -228,3 +228,7 @@
 	.navbar .btn-group .dropdown-menu a:active {
 	color: #fff !important;
 	}
+	::selection {
+  	color: red;
+  	background: yellow;
+	}
