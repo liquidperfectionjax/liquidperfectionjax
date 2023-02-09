@@ -197,6 +197,9 @@
 			}
 		}
 	}
+	input[type=text]:focus {
+		color: red;
+	}
 
 	::-webkit-input-placeholder {
 		color: _palette(fg-light) !important;
