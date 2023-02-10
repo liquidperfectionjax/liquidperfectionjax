@@ -42,7 +42,6 @@
 					'color #{_duration(transition)} ease-in-out'
 				));
 				background-color: _palette(fg-bold);
-				color: _palette(bg);
 				display: inline-block;
 				line-height: 1.65em;
 				margin-right: 0.325em;
@@ -134,7 +133,6 @@
 			@include vendor('transition-delay', '0.75s');
 			@include vendor('animation', 'none');
 			background-color: transparent;
-			color: _palette(bg);
 			box-shadow: none;
 			position: absolute;
 
