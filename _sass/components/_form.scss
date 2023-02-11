@@ -78,7 +78,7 @@
 	textarea {
 		@include vendor('appearance', 'none');
 		background: _palette(border-bg);
-		border: none;
+		box-shadow: inset 0 0 0 2px _palette(fg-bold);
 		border-radius: 0;
 		color: inherit;
 		display: block;
@@ -88,7 +88,7 @@
 		width: 60%;
 
 		&:invalid {
-			box-shadow: inset 0 0 0 2px _palette(fg-bold)
+			box-shadow: none;
 		}
 
 		&:focus {
