@@ -202,23 +202,7 @@
 			}
 		}
 	}
-	.newsletter-form-body {
-	    display: flex;
-	    flex-direction: column;
-	    justify-content: center !important;
-	    align-items: center;
-	}
-	.newsletter-form-fields-wrapper.form-fields {
-	    order: 1;
-	}
-	.recaptcha {
-	    order: 2;
-	    margin-top: 20px;
-	}
-	.newsletter-form-button-wrapper.submit-wrapper {
-	    order: 3;
-	    margin-top: 0;
-	}
+
 	::-webkit-input-placeholder {
 		color: _palette(fg-light) !important;
 		opacity: 1.0;
