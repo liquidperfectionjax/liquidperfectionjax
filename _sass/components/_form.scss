@@ -62,7 +62,7 @@
 
 	label {
 		color: _palette(fg-bold);
-		display: block;
+		display: flex;
 		font-size: 0.8em;
 		font-weight: _font(weight-bold);
 		/*letter-spacing: _font(letter-spacing-alt);
@@ -81,7 +81,7 @@
 		box-shadow: 0 0 0 2px white;
 		border-radius: 0;
 		color: inherit;
-		display: block;
+		display: flex;
 		outline: 0;
 		padding: 0 1em;
 		text-decoration: none;
@@ -140,7 +140,7 @@
 	input[type="checkbox"],
 	input[type="radio"], {
 		@include vendor('appearance', 'none');
-		display: block;
+		display: flex;
 		float: left;
 		margin-right: -2em;
 		opacity: 0;
