@@ -45,7 +45,7 @@
 			font-size: 3.25em;
 		}
 
-		/*> .inner {
+		> .inner {
 			@include vendor('transition', (
 				'opacity 1.5s ease',
 				'transform 0.5s ease-out',
@@ -93,7 +93,7 @@
 					letter-spacing: _font(letter-spacing-alt);
 					text-transform: uppercase;
 				}
-			}*/
+			}
 		}
 
 		&.major {
