@@ -14,6 +14,8 @@
 		letter-spacing: _font(letter-spacing);
 		line-height: 1.65;
 		border: none;
+		margin-left: 2px;
+		margine-block-start: 5px;
 
 		@include breakpoint(xlarge) {
 			font-size: 14pt;
