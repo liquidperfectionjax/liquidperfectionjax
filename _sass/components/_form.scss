@@ -104,13 +104,13 @@
 
 	.select-wrapper {
 		@include icon;
-		display: block;
+		display: flex;
 		position: relative;
 
 		&:before {
 			color: _palette(border);
 			content: '\f078';
-			display: block;
+			display: flex;
 			height: _size(element-height);
 			line-height: _size(element-height);
 			pointer-events: none;
