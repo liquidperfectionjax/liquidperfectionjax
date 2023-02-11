@@ -92,8 +92,8 @@
 		}	
 			
 		&:focus, &:hover, &:active {
-			border-color: _palette(highlight);
-			box-shadow: 0 0 0 2px _palette(highlight);
+			border-color: _palette(border-bg);
+			box-shadow: 0 0 0 2px _palette(border-bg);
 		}
 	}
 
