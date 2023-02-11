@@ -79,7 +79,7 @@
 		@include vendor('appearance', 'none');
 		background: _palette(border-bg);
 		box-shadow: 0 0 0 2px white;
-		border-radius: 2px;
+		border-radius: 0;
 		color: inherit;
 		display: block;
 		outline: 0;
@@ -91,7 +91,7 @@
 			box-shadow: none;
 		}	
 			
-		&:focus {
+		&:focus, &:hover, &:active {
 			border-color: _palette(highlight);
 			box-shadow: 0 0 0 2px _palette(highlight);
 		}
