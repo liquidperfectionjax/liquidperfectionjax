@@ -83,7 +83,7 @@
 					margin-bottom: 0;
 					display: flex;
 					flex-wrap: wrap;
-					justify-content: space-between;
+					justify-content: space-around;
 				}
 
 				> :first-child {
@@ -148,14 +148,14 @@
 				.content {
 					display: flex;
 					flex-wrap: wrap;
-					justify-content: space-between;
+					justify-content: space-around;
 
 					> * {
 						margin-left: 0;
 						margin-bottom: _size(element-margin);
 						display: flex;
 						flex-wrap: wrap;
-						justify-content: space-between
+						justify-content: space-around
 					}
 				}
 			}
