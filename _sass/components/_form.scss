@@ -91,14 +91,15 @@
 			box-shadow: none;
 		}	
 			
-		&:hover, &:active {
-			border-color: _palette(highlight);
-			box-shadow: 0 0 0 2px _palette(highlight);
-		}
-		&:focus {
+		&:hover, &:focus {
 			border-color: _palette(highlight);
 			box-shadow: 0 0 0 2px _palette(highlight);
 			color: black;
+		}
+		&:active {
+			border-color: _palette(highlight);
+			box-shadow: 0 0 0 2px _palette(highlight);
+			color: white;
 		}
 	}
 
