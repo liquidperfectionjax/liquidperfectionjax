@@ -2,7 +2,7 @@
 title: Our Process
 layout: landing
 description: 'Our award winning process is due to our 20+ Veteran serving ATTENTION TO DETAIL!'
-image: assets/images/pic07.jpg
+image: assets/images/work/Liquidperfection 000.jpg
 nav-menu: true
 ---
 
