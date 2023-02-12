@@ -29,6 +29,8 @@
 			@include vendor('transition-delay', '1s');
 			@include vendor('pointer-events', 'none');
 			background-color: _palette(bg);
+			background-position-x: center;
+			background-position-y: 75%;
 			content: '';
 			display: flex;
 			flex-wrap: wrap;
