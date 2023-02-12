@@ -2,7 +2,7 @@
 layout: post
 title: Our Work
 description: Check out our latest creations.
-image: assets/images/OurWork.png
+image: assets/images/work/Liquidperfection 000.jpg
 nav-menu: true
 ---
 
