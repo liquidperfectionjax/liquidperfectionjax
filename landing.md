@@ -28,7 +28,7 @@ nav-menu: true
 		</header>
 		<p>
 		<ul><li>Clean Concrete Floor. </li>
-<li>Mix and Apply Concrete Etch.</li>
+<li>Diamond grind concrete.</li>
 <li>Prepare Room for Painting.</li>
 <li>Mix and Apply the Epoxy Coating.</li>
 <li>Allow Epoxy to Dry Then Apply Second Coat.</li>
